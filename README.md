@@ -1,638 +1,701 @@
-# ⚡ STORM MIC: The Neural Buffer Protocol™
-### 🌍 5 Languages Recognition • 237 Languages Translation • 100% Offline • Zero Cloud
+# NEXT
 
-<div align="center">
+NEXT is an offline-first dictation workspace built around the **Neural Buffer Protocol**: speak, capture into a buffer, review, optionally transform with AI, and only then insert the final text into the target window.
 
-![Storm Mic](https://img.shields.io/badge/STORM_MIC-v4.2_NEURAL-00d4ff?style=for-the-badge&logo=brain&logoColor=white)
-![Buffer Protocol](https://img.shields.io/badge/BUFFER_PROTOCOL™-PATENTED-ff0066?style=for-the-badge&logo=shield&logoColor=white)
-![Privacy](https://img.shields.io/badge/PRIVACY-AIR_GAPPED-00ff88?style=for-the-badge&logo=lock&logoColor=white)
-![Languages](https://img.shields.io/badge/LANGUAGES-237-ffaa00?style=for-the-badge&logo=translate&logoColor=white)
+## Links and contacts
 
-### 🏆 #1 Product of the Year • 500,000+ Professional Users • $250M Saved Annually
+- Website: [https://standaloneaistorm.com](https://standaloneaistorm.com)
+- Demo: [https://standaloneaistorm.com/demo](https://standaloneaistorm.com/demo)
+- Releases: [https://github.com/adamgold1/Storm_Mic/releases](https://github.com/adamgold1/Storm_Mic/releases)
+- Repository: [https://github.com/adamgold1/Storm_Mic](https://github.com/adamgold1/Storm_Mic)
+- Email: `standaloneaistorm.com@gmail.com`
+- Support: `support@standaloneaistorm.com`
+- Sales: `sales@standaloneaistorm.com`
+- Enterprise: `enterprise@standaloneaistorm.com`
 
-**[🇺🇸 English](#-english)** | **[🇷🇺 Русский](#-russian)** | **[🇪🇸 Español](#-spanish)** | **[🇨🇳 中文](#-chinese)** | **[🇮🇳 हिन्दी](#-hindi)**
-
-</div>
-
----
-
-# 🇺🇸 ENGLISH
-
-## ⚡ The Only Dictation System That Thinks Before It Types™
-
-> **"Storm Mic isn't software. It's a cognitive extension."**  
-> — **Dr. Geoffrey Hinton**, Godfather of AI
-
-### 🧠 THE BUFFER PROTOCOL™ REVOLUTION
-
-Imagine if your voice had a **staging area** — like Git for speech. That's Storm Mic.
-
-**❌ EVERY OTHER TOOL:**
-Speak → Instant typing → Errors → Delete → Frustration → Repeat
-
-**✅ STORM MIC BUFFER PROTOCOL™:**
-1. **CAPTURE:** Speak naturally. Every word enters the Neural Buffer.
-2. **PERFECT:** AI cleans grammar. You review visually.
-3. **DEPLOY:** One click. Perfect text injected into ANY application.
-
-> **93% of users say:** *"I can't imagine working without Buffer Protocol now."*
-
-### 📊 THE PROOF THAT SELLS
-
-| Metric | Storm Mic | Dragon/Google/Siri |
-|--------|-----------|-------------------|
-| **Privacy** | 100% Offline | Cloud-dependent |
-| **Speed** | 5X faster | Baseline |
-| **Languages** | 237 | 20-50 |
-| **Medical Legal** | HIPAA Certified | Not compliant |
-| **Military Grade** | Air-gapped ready | Impossible |
-| **Buffer Editing** | ✅ Revolutionary | ❌ None |
-| **Price** | $99/month | $300-500/month |
-
-### 🎯 WHO'S ALREADY USING STORM MIC?
-
-#### 🏥 **MEDICAL TITANS**
-**Dr. Sarah Mitchell, Johns Hopkins:**  
-*"I dictate surgical notes DURING operations. Buffer Protocol holds everything until I'm scrubbed out. Then one click — perfect documentation. We've deployed Storm Mic in all 47 ORs."*
-
-**ROI:** Save 3 hours/day = See 15 more patients/week = **$780,000 extra annual revenue**
-
-#### 💻 **TECH ELITE**  
-**Anonymous Senior Engineer, SpaceX:**  
-*"I dictate code comments while debugging. The Buffer catches my thoughts, I refine them, then inject directly into VS Code. It's like having a second brain with perfect memory."*
-
-**ROI:** 5X documentation speed = Better code quality = **Fewer production bugs**
-
-#### ⚖️ **LEGAL LEGENDS**
-**Managing Partner, Clifford Chance:**  
-*"We draft $50M contracts by voice. Storm Mic NEVER touches the internet. Our Chinese walls love it. We're canceling Dragon across all 5,000 attorneys."*
-
-**ROI:** 2 hours saved/day/lawyer = **$2,000 billable hours/day recovered**
-
-#### 🎖️ **CLASSIFIED SECTORS**
-**[REDACTED], Pentagon Contractor:**  
-*"We process classified documents on air-gapped systems. Storm Mic is the ONLY voice solution that meets our SCIF requirements."*
-
-**ROI:** [CLASSIFIED]
-
-### 🚀 THE FEATURES THAT DOMINATE
-
-**🧠 NEURAL BUFFER PROTOCOL™**
-- Unlimited voice capture
-- Visual editing overlay
-- One-click deployment
-- Smart context injection
-
-**🔐 ABSOLUTE PRIVACY**
-- 0% cloud dependency
-- Works in airplane mode
-- No account needed
-- Your voice never leaves your RAM
-
-**🌍 POLYGLOT POWER**
-- **Dictate in:** English, Russian, Spanish, Chinese, Hindi
-- **Translate to:** 237 languages instantly
-- **Accuracy:** 99.7% (MIT tested)
-
-**⚡ INTEGRATION MAGIC**
-- Works with ALL applications
-- No plugins needed
-- Native OS integration
-- Smart field detection
-
-**📈 PRODUCTIVITY MULTIPLIER**
-- 5X faster than typing
-- 10X faster than hunt-and-peck
-- 50X faster for technical documentation
-
-### 💰 INVESTMENT & ROI
-
-**STORM MIC PROFESSIONAL**
-- ~~$299/month~~ **$99/month** (67% OFF)
-- Or $999/year (save $189)
-- **FREE 3-MONTH TRIAL** (no card required)
-
-**STORM MIC ENTERPRISE**
-- Unlimited seats
-- Air-gapped deployment
-- 24/7 priority support
-- Custom neural models
-- Starting at **$50,000/year**
-
-**ROI CALCULATOR:**
-- Average user types: 40 WPM
-- Storm Mic enables: 200 WPM
-- Time saved: 4 hours/day
-- Value created: **$500/day** (@$125/hour)
-- Annual ROI: **$125,000 per user**
-
-### 🏆 AWARDS & RECOGNITION
-
-- 🥇 **GitHub Innovation Award 2024**
-- 🥇 **Privacy Product of the Year — Electronic Frontier Foundation**
-- 🥇 **Best AI Tool — Stack Overflow Developer Survey**
-- 🥇 **#1 Product Hunt for 3 Consecutive Weeks**
-- 🥇 **TIME Magazine's Top 100 Inventions**
-
-### 🔬 TRUSTED BY THE BEST
-
-<div align="center">
-
-| | | | |
-|:---:|:---:|:---:|:---:|
-| **NASA** | **CERN** | **MIT** | **Stanford** |
-| **Mayo Clinic** | **Johns Hopkins** | **Cleveland Clinic** | **Mass General** |
-| **Goldman Sachs** | **J.P. Morgan** | **BlackRock** | **Citadel** |
-| **SpaceX** | **Tesla** | **Apple**¹ | **Microsoft**¹ |
-
-¹ *Individual teams, not company-wide deployment*
-
-</div>
-
-### ⚠️ THE STORM MIC GUARANTEE
-
-**30-DAY MONEY BACK** — No questions asked  
-**+$100 CHALLENGE** — We'll pay you if you find a more private solution  
-**LIFETIME UPDATES** — Buy once, improve forever  
-**DATA PLEDGE** — We can't see your data even if subpoenaed  
-
-### 📈 GROWTH METRICS
-
-- 📊 **500,000+** active professional users
-- 🌍 **142** countries deployed
-- 💰 **$250M+** saved by users annually  
-- ⏱️ **2.3 million hours** saved monthly
-- 🏥 **47%** of US hospitals using Storm Mic
-- ⚖️ **63%** of AmLaw 100 firms deployed
+**Languages:** [English](#english) | [Русский](#russian) | [Español](#spanish) | [中文](#chinese) | [हिन्दी](#hindi) | [العربية](#arabic)
 
 ---
 
-# 🇷🇺 RUSSIAN
+## English
 
-## ⚡ Единственная Система Диктовки, Которая Думает Перед Печатью™
+### What NEXT is
 
-> **"Storm Mic — это не программа. Это расширение сознания."**  
-> — **Профессор Хинтон**, Крёстный отец ИИ
+NEXT is a desktop application centered on the **Neural Buffer Protocol**:
 
-### 🧠 РЕВОЛЮЦИЯ ПРОТОКОЛА БУФЕРА™
+1. Capture voice
+2. Store text in a reviewable buffer
+3. Edit or clean it up safely
+4. Optionally use local AI tools
+5. Insert the final result into the target app
 
-Представьте, если бы у вашего голоса была **промежуточная зона** — как Git для речи. Это Storm Mic.
+### Main public functionality
 
-**❌ ВСЕ ОСТАЛЬНЫЕ ИНСТРУМЕНТЫ:**
-Говорите → Мгновенная печать → Ошибки → Удаление → Разочарование → Повтор
+#### Dictation and Buffer workflow
 
-**✅ STORM MIC BUFFER PROTOCOL™:**
-1. **ЗАХВАТ:** Говорите естественно. Каждое слово попадает в Нейронный Буфер.
-2. **СОВЕРШЕНСТВО:** ИИ исправляет грамматику. Вы проверяете визуально.
-3. **ВНЕДРЕНИЕ:** Один клик. Идеальный текст внедряется в ЛЮБОЕ приложение.
+- Buffer-first dictation instead of immediate typing
+- Buffer Editor with manual correction before insertion
+- `Insert to Window` / fast insert workflow
+- Translation panel inside Buffer Editor
+- AI transforms for selected or full text
+- Save current text to buffer history
+- Buffer history with starred sessions
+- Open notes from the buffer
+- File-to-text workflow for local media and supported sources
+- `Turbo Engine` for background video transcription workflow
 
-> **93% пользователей говорят:** *"Не могу представить работу без Протокола Буфера."*
+#### AI and Ollama
 
-### 📊 ДОКАЗАТЕЛЬСТВА, КОТОРЫЕ ПРОДАЮТ
+- Local AI chat through Ollama
+- AI text transforms through Ollama
+- Model/provider/base URL configuration
+- `Install / Check Ollama`
+- `Reload AI Model`
+- `Delete Unused Models`
+- Local model management from the UI
+- Chat sessions stored separately from buffer history
 
-| Метрика | Storm Mic | Dragon/Google/Siri |
-|---------|-----------|-------------------|
-| **Приватность** | 100% Офлайн | Зависит от облака |
-| **Скорость** | В 5 раз быстрее | Базовая |
-| **Языки** | 237 | 20-50 |
-| **Медицина** | Сертификат ФЗ-152 | Не соответствует |
-| **Военный уровень** | Изолированная сеть | Невозможно |
-| **Редактор буфера** | ✅ Революционный | ❌ Нет |
-| **Цена** | $99/месяц | $300-500/месяц |
+#### Nexus Control Center
 
-### 🎯 КТО УЖЕ ИСПОЛЬЗУЕТ STORM MIC?
+- AI Core settings
+- Advanced settings
+- TTS Engine settings
+- System Audio settings
+- Speech Words / vocabulary settings
+- Platform dependency checks
+- Update check
+- Feedback sending
 
-#### 🏥 **МЕДИЦИНСКИЕ ТИТАНЫ**
-**Д-р Петрова, Институт Склифосовского:**  
-*"Я диктую хирургические заметки ВО ВРЕМЯ операций. Протокол Буфера удерживает всё, пока я не выйду из операционной. Затем один клик — идеальная документация. Мы развернули Storm Mic во всех 47 операционных."*
+#### Nexus Notes workspace
 
-**ROI:** Экономия 3 часа/день = 15 дополнительных пациентов/неделю = **45 млн ₽ дополнительного годового дохода**
+- Editor
+- Canvas
+- Organizer
+- Mind Map
+- Kanban
+- Drawing
+- Video
+- Studio
+- Audio
+- Sys Audio
+- File browser
+- Session/history panels
+- Starred sessions
 
-#### 💻 **ТЕХНОЛОГИЧЕСКАЯ ЭЛИТА**  
-**Старший инженер, Яндекс:**  
-*"Я диктую комментарии к коду во время отладки. Буфер захватывает мои мысли, я их совершенствую, затем внедряю прямо в VS Code. Это как иметь второй мозг с идеальной памятью."*
+#### Media, screenshots, and capture
 
-**ROI:** 5X скорость документации = Лучшее качество кода = **Меньше багов в продакшене**
+- Local video/audio transcription
+- YouTube processing if supporting tools are installed
+- Screenshot panel
+- Area capture
+- Window capture
+- Editor capture
+- Screen recording
+- Camera / media workflows
+- System audio capture and transcription
 
-#### ⚖️ **ЮРИДИЧЕСКИЕ ЛЕГЕНДЫ**
-**Управляющий партнёр, Белая и Кейс:**  
-*"Мы составляем контракты на $50M голосом. Storm Mic НИКОГДА не касается интернета. Наша конфиденциальность защищена. Мы отменяем Dragon для всех 5,000 юристов."*
+#### Speech engines and voices
 
-**ROI:** 2 часа экономии/день/юрист = **$2,000 оплачиваемых часов/день возвращено**
+- Vosk
+- Smart Type
+- STORM STT
+- Whisper-based paths
+- Offline Piper TTS
+- Voice/model-related settings from UI
 
-#### 🎖️ **СЕКРЕТНЫЕ СЕКТОРА**
-**[ЗАСЕКРЕЧЕНО], Оборонпром:**  
-*"Мы обрабатываем секретные документы в изолированных системах. Storm Mic — ЕДИНСТВЕННОЕ голосовое решение, соответствующее нашим требованиям."*
+### Main hotkeys
 
-**ROI:** [ЗАСЕКРЕЧЕНО]
+- `Ctrl + ~` — start/stop recording
+- `Ctrl + Space` — open/close Buffer Editor
+- `Alt + Space` — open/close Nexus Control Center
+- `Ctrl + Alt` — screenshot panel
+- Hold `Space`, then press `Ctrl` — open Nexus Notes
+- Double-tap `Ctrl` — fast insert
 
-### 🚀 ФУНКЦИИ, КОТОРЫЕ ДОМИНИРУЮТ
+### Ollama
 
-**🧠 НЕЙРОННЫЙ ПРОТОКОЛ БУФЕРА™**
-- Неограниченный захват голоса
-- Визуальное редактирование
-- Развертывание одним кликом
-- Умная контекстная вставка
+AI chat and AI transforms require Ollama.
 
-**🔐 АБСОЛЮТНАЯ ПРИВАТНОСТЬ**
-- 0% зависимости от облака
-- Работает в авиарежиме
-- Не нужен аккаунт
-- Ваш голос никогда не покидает RAM
+- Official site: [https://ollama.com](https://ollama.com)
+- In app: `🛠️ Install / Check Ollama`
+- After changing model/provider settings: `🔄 Reload AI Model`
 
-**🌍 ПОЛИГЛОТ МОЩНОСТЬ**
-- **Диктуйте на:** Английском, Русском, Испанском, Китайском, Хинди
-- **Переводите на:** 237 языков мгновенно
-- **Точность:** 99.7% (протестировано MIT)
+### Privacy and storage
 
-**⚡ МАГИЯ ИНТЕГРАЦИИ**
-- Работает со ВСЕМИ приложениями
-- Не нужны плагины
-- Нативная интеграция с ОС
-- Умное определение полей
-
-**📈 УМНОЖИТЕЛЬ ПРОДУКТИВНОСТИ**
-- В 5 раз быстрее печати
-- В 10 раз быстрее поиска клавиш
-- В 50 раз быстрее для технической документации
-
-### 💰 ИНВЕСТИЦИИ И ROI
-
-**STORM MIC PROFESSIONAL**
-- ~~$299/месяц~~ **$99/месяц** (скидка 67%)
-- Или $999/год (экономия $189)
-- **БЕСПЛАТНЫЙ 3-МЕСЯЧНЫЙ ТРИАЛ** (карта не нужна)
-
-**STORM MIC ENTERPRISE**
-- Неограниченные места
-- Развертывание в изолированной сети
-- Поддержка 24/7
-- Кастомные нейронные модели
-- От **$50,000/год**
-
-**КАЛЬКУЛЯТОР ROI:**
-- Средний пользователь печатает: 40 слов/мин
-- Storm Mic позволяет: 200 слов/мин
-- Экономия времени: 4 часа/день
-- Создаваемая ценность: **$500/день** (@$125/час)
-- Годовой ROI: **$125,000 на пользователя**
-
----
-
-# 🇪🇸 SPANISH
-
-## ⚡ El Único Sistema de Dictado que Piensa Antes de Escribir™
-
-> **"Storm Mic no es software. Es una extensión cognitiva."**  
-> — **Dr. Geoffrey Hinton**, Padrino de la IA
-
-### 🧠 LA REVOLUCIÓN DEL PROTOCOLO BUFFER™
-
-Imagina si tu voz tuviera un **área de preparación** — como Git para el habla. Eso es Storm Mic.
-
-**❌ TODAS LAS DEMÁS HERRAMIENTAS:**
-Hablar → Escritura instantánea → Errores → Borrar → Frustración → Repetir
-
-**✅ PROTOCOLO BUFFER DE STORM MIC™:**
-1. **CAPTURA:** Habla naturalmente. Cada palabra entra al Buffer Neural.
-2. **PERFECCIÓN:** La IA corrige la gramática. Tú revisas visualmente.
-3. **DESPLIEGUE:** Un clic. Texto perfecto inyectado en CUALQUIER aplicación.
-
-> **93% de usuarios dicen:** *"No puedo imaginar trabajar sin el Protocolo Buffer ahora."*
-
-### 📊 LA PRUEBA QUE VENDE
-
-| Métrica | Storm Mic | Dragon/Google/Siri |
-|---------|-----------|-------------------|
-| **Privacidad** | 100% Sin conexión | Dependiente de la nube |
-| **Velocidad** | 5X más rápido | Base |
-| **Idiomas** | 237 | 20-50 |
-| **Médico Legal** | Certificado HIPAA | No cumple |
-| **Grado Militar** | Listo para red aislada | Imposible |
-| **Edición de Buffer** | ✅ Revolucionario | ❌ Ninguno |
-| **Precio** | $99/mes | $300-500/mes |
-
-### 🎯 ¿QUIÉN YA ESTÁ USANDO STORM MIC?
-
-#### 🏥 **TITANES MÉDICOS**
-**Dra. Carmen López, Hospital La Paz:**  
-*"Dicto notas quirúrgicas DURANTE las operaciones. El Protocolo Buffer retiene todo hasta que salgo del quirófano. Luego un clic — documentación perfecta. Hemos implementado Storm Mic en los 47 quirófanos."*
-
-**ROI:** Ahorra 3 horas/día = Ve 15 pacientes más/semana = **€650,000 ingresos anuales extra**
-
-#### 💻 **ÉLITE TECNOLÓGICA**  
-**Ingeniero Senior, Telefónica Tech:**  
-*"Dicto comentarios de código mientras depuro. El Buffer captura mis pensamientos, los refino, luego inyecto directamente en VS Code. Es como tener un segundo cerebro con memoria perfecta."*
-
-**ROI:** 5X velocidad de documentación = Mejor calidad de código = **Menos bugs en producción**
-
-#### ⚖️ **LEYENDAS LEGALES**
-**Socio Director, Garrigues:**  
-*"Redactamos contratos de €50M por voz. Storm Mic NUNCA toca internet. Nuestros muros chinos lo adoran. Estamos cancelando Dragon en los 5,000 abogados."*
-
-**ROI:** 2 horas ahorradas/día/abogado = **€2,000 horas facturables/día recuperadas**
-
-### 🚀 LAS CARACTERÍSTICAS QUE DOMINAN
-
-**🧠 PROTOCOLO BUFFER NEURAL™**
-- Captura de voz ilimitada
-- Edición visual superpuesta
-- Despliegue con un clic
-- Inyección inteligente de contexto
-
-**🔐 PRIVACIDAD ABSOLUTA**
-- 0% dependencia de la nube
-- Funciona en modo avión
-- No necesita cuenta
-- Tu voz nunca sale de tu RAM
-
-**🌍 PODER POLÍGLOTA**
-- **Dicta en:** Inglés, Ruso, Español, Chino, Hindi
-- **Traduce a:** 237 idiomas instantáneamente
-- **Precisión:** 99.7% (probado por MIT)
-
-**⚡ MAGIA DE INTEGRACIÓN**
-- Funciona con TODAS las aplicaciones
-- No necesita plugins
-- Integración nativa del SO
-- Detección inteligente de campos
-
-### 💰 INVERSIÓN Y ROI
-
-**STORM MIC PROFESSIONAL**
-- ~~€299/mes~~ **€99/mes** (67% DESC)
-- O €999/año (ahorra €189)
-- **PRUEBA GRATUITA DE 3 MESES** (sin tarjeta)
-
-**STORM MIC ENTERPRISE**
-- Asientos ilimitados
-- Implementación aislada
-- Soporte 24/7
-- Modelos neurales personalizados
-- Desde **€50,000/año**
+- Dictation and local processing can run fully on your device
+- Ollama-based AI can stay local
+- Buffer history is stored locally
+- Chat history is stored locally in a separate database
 
 ---
 
-# 🇨🇳 CHINESE
+## Russian
 
-## ⚡ 唯一在输入前思考的听写系统™
+### Что такое NEXT
 
-> **"Storm Mic 不是软件。它是认知延伸。"**  
-> — **Geoffrey Hinton 博士**，AI 教父
+NEXT — это десктопное приложение, построенное вокруг **Neural Buffer Protocol**:
 
-### 🧠 缓冲协议™革命
+1. Захват голоса
+2. Сохранение текста в буфер
+3. Спокойная проверка и редактирование
+4. При необходимости локальная AI-обработка
+5. Вставка итогового текста в целевое окно
 
-想象一下，如果您的声音有一个**暂存区**——就像语音的 Git。这就是 Storm Mic。
+### Основной публичный функционал
 
-**❌ 所有其他工具：**
-说话 → 即时输入 → 错误 → 删除 → 挫折 → 重复
+#### Диктовка и буферный workflow
 
-**✅ STORM MIC 缓冲协议™：**
-1. **捕获：** 自然说话。每个词进入神经缓冲区。
-2. **完美：** AI 纠正语法。您可视化审查。
-3. **部署：** 一键点击。完美文本注入任何应用。
+- Диктовка сначала в буфер, а не сразу в окно
+- Buffer Editor с ручной правкой перед вставкой
+- `Insert to Window` и быстрая вставка
+- Панель перевода внутри Buffer Editor
+- AI-трансформации для выделенного или полного текста
+- Сохранение текста в историю буфера
+- История буфера и избранные сессии
+- Открытие заметок прямо из буфера
+- Преобразование файлов в текст для локальных медиа и поддерживаемых источников
+- `Turbo Engine` для фонового workflow видео-транскрипции
 
-> **93% 的用户说：** *"现在无法想象没有缓冲协议的工作。"*
+#### AI и Ollama
 
-### 📊 销售证明
+- Локальный AI-чат через Ollama
+- AI-трансформации текста через Ollama
+- Настройка модели, провайдера и Base URL
+- `Install / Check Ollama`
+- `Reload AI Model`
+- `Delete Unused Models`
+- Управление локальными моделями из интерфейса
+- История чата хранится отдельно от истории буфера
 
-| 指标 | Storm Mic | Dragon/Google/Siri |
-|------|-----------|-------------------|
-| **隐私** | 100% 离线 | 依赖云端 |
-| **速度** | 快 5 倍 | 基准 |
-| **语言** | 237 | 20-50 |
-| **医疗合规** | HIPAA 认证 | 不合规 |
-| **军事级别** | 隔离网络就绪 | 不可能 |
-| **缓冲编辑** | ✅ 革命性 | ❌ 无 |
-| **价格** | $99/月 | $300-500/月 |
+#### Nexus Control Center
 
-### 🎯 谁在使用 STORM MIC？
+- AI Core
+- Advanced
+- TTS Engine
+- System Audio
+- Speech Words / словарь
+- Проверка платформенных зависимостей
+- Проверка обновлений
+- Отправка обратной связи
 
-#### 🏥 **医疗巨头**
-**张博士，北京协和医院：**  
-*"我在手术期间口述手术记录。缓冲协议保存一切，直到我离开手术室。然后一键——完美的文档。我们已在所有 47 个手术室部署了 Storm Mic。"*
+#### Рабочее пространство Nexus Notes
 
-**投资回报率：** 每天节省 3 小时 = 每周多看 15 名患者 = **年收入增加 500 万元**
+- Editor
+- Canvas
+- Organizer
+- Mind Map
+- Kanban
+- Drawing
+- Video
+- Studio
+- Audio
+- Sys Audio
+- Файловый браузер
+- Панели сессий и истории
+- Избранные сессии
 
-#### 💻 **科技精英**  
-**高级工程师，阿里巴巴：**  
-*"我在调试时口述代码注释。缓冲区捕获我的想法，我对其进行改进，然后直接注入 VS Code。就像拥有具有完美记忆的第二大脑。"*
+#### Медиа, скриншоты и захват
 
-**投资回报率：** 文档速度提高 5 倍 = 代码质量更好 = **生产环境错误更少**
+- Локальная транскрипция видео и аудио
+- Обработка YouTube, если установлены нужные инструменты
+- Панель скриншотов
+- Захват области
+- Захват окна
+- Захват редактора
+- Запись экрана
+- Камера и связанные media-workflow
+- Захват и транскрипция системного аудио
 
-#### ⚖️ **法律传奇**
-**管理合伙人，金杜律师事务所：**  
-*"我们通过语音起草 5000 万美元的合同。Storm Mic 从不接触互联网。我们的保密墙喜欢它。我们正在为所有 5,000 名律师取消 Dragon。"*
+#### Движки речи и голоса
 
-**投资回报率：** 每天每位律师节省 2 小时 = **每天恢复 2,000 美元计费小时**
+- Vosk
+- Smart Type
+- STORM STT
+- Whisper-пути
+- Оффлайн Piper TTS
+- Настройки голоса и моделей из UI
 
-### 🚀 主导功能
+### Основные горячие клавиши
 
-**🧠 神经缓冲协议™**
-- 无限语音捕获
-- 视觉编辑叠加
-- 一键部署
-- 智能上下文注入
+- `Ctrl + ~` — старт/стоп записи
+- `Ctrl + Space` — открыть/закрыть Buffer Editor
+- `Alt + Space` — открыть/закрыть Nexus Control Center
+- `Ctrl + Alt` — панель скриншота
+- Удерживать `Space`, затем нажать `Ctrl` — открыть Nexus Notes
+- Двойной тап `Ctrl` — быстрая вставка
 
-**🔐 绝对隐私**
-- 0% 云依赖
-- 飞行模式下工作
-- 无需账户
-- 您的声音永不离开 RAM
+### Ollama
 
-**🌍 多语言能力**
-- **口述语言：** 英语、俄语、西班牙语、中文、印地语
-- **翻译至：** 即时 237 种语言
-- **准确度：** 99.7%（MIT 测试）
+Для AI-чата и AI-трансформаций нужна Ollama.
 
-**⚡ 集成魔法**
-- 适用于所有应用程序
-- 无需插件
-- 原生操作系统集成
-- 智能字段检测
+- Сайт: [https://ollama.com](https://ollama.com)
+- В приложении: `🛠️ Install / Check Ollama`
+- После смены модели или провайдера: `🔄 Reload AI Model`
 
-### 💰 投资与投资回报率
+### Приватность и хранение
 
-**STORM MIC 专业版**
-- ~~$299/月~~ **$99/月**（67% 折扣）
-- 或 $999/年（节省 $189）
-- **免费 3 个月试用**（无需信用卡）
-
-**STORM MIC 企业版**
-- 无限席位
-- 隔离部署
-- 24/7 优先支持
-- 定制神经模型
-- 起价 **$50,000/年**
-
----
-
-# 🇮🇳 HINDI
-
-## ⚡ एकमात्र डिक्टेशन सिस्टम जो टाइप करने से पहले सोचता है™
-
-> **"Storm Mic सॉफ्टवेयर नहीं है। यह एक संज्ञानात्मक विस्तार है।"**  
-> — **डॉ. जेफ्री हिंटन**, AI के गॉडफादर
-
-### 🧠 बफर प्रोटोकॉल™ क्रांति
-
-कल्पना करें कि आपकी आवाज़ में एक **स्टेजिंग क्षेत्र** हो — भाषण के लिए Git की तरह। यही Storm Mic है।
-
-**❌ अन्य सभी उपकरण:**
-बोलना → तत्काल टाइपिंग → त्रुटियां → हटाना → निराशा → दोहराना
-
-**✅ STORM MIC बफर प्रोटोकॉल™:**
-1. **कैप्चर:** स्वाभाविक रूप से बोलें। हर शब्द न्यूरल बफर में जाता है।
-2. **परफेक्ट:** AI व्याकरण ठीक करता है। आप दृश्य रूप से समीक्षा करते हैं।
-3. **डिप्लॉय:** एक क्लिक। किसी भी एप्लिकेशन में परफेक्ट टेक्स्ट इंजेक्ट।
-
-> **93% उपयोगकर्ता कहते हैं:** *"अब बफर प्रोटोकॉल के बिना काम करने की कल्पना नहीं कर सकता।"*
-
-### 📊 बिक्री का प्रमाण
-
-| मेट्रिक | Storm Mic | Dragon/Google/Siri |
-|--------|-----------|-------------------|
-| **गोपनीयता** | 100% ऑफलाइन | क्लाउड निर्भर |
-| **गति** | 5X तेज़ | बेसलाइन |
-| **भाषाएं** | 237 | 20-50 |
-| **मेडिकल लीगल** | HIPAA प्रमाणित | अनुपालन नहीं |
-| **सैन्य ग्रेड** | एयर-गैप्ड तैयार | असंभव |
-| **बफर संपादन** | ✅ क्रांतिकारी | ❌ कोई नहीं |
-| **कीमत** | $99/महीना | $300-500/महीना |
-
-### 🎯 STORM MIC का उपयोग कौन कर रहा है?
-
-#### 🏥 **चिकित्सा दिग्गज**
-**डॉ. शर्मा, AIIMS दिल्ली:**  
-*"मैं ऑपरेशन के दौरान सर्जिकल नोट्स बोलता हूं। बफर प्रोटोकॉल सब कुछ होल्ड करता है जब तक मैं ओटी से बाहर नहीं आता। फिर एक क्लिक — परफेक्ट डॉक्यूमेंटेशन। हमने सभी 47 ओटी में Storm Mic तैनात किया है।"*
-
-**ROI:** 3 घंटे/दिन की बचत = 15 अधिक मरीज़/सप्ताह = **₹6 करोड़ अतिरिक्त वार्षिक राजस्व**
-
-#### 💻 **टेक एलीट**  
-**सीनियर इंजीनियर, Infosys:**  
-*"मैं डिबगिंग करते समय कोड कमेंट्स बोलता हूं। बफर मेरे विचारों को पकड़ता है, मैं उन्हें परिष्कृत करता हूं, फिर सीधे VS Code में इंजेक्ट करता हूं। यह परफेक्ट मेमोरी वाला दूसरा मस्तिष्क होने जैसा है।"*
-
-**ROI:** 5X डॉक्यूमेंटेशन गति = बेहतर कोड गुणवत्ता = **कम प्रोडक्शन बग्स**
-
-#### ⚖️ **कानूनी दिग्गज**
-**मैनेजिंग पार्टनर, AZB & Partners:**  
-*"हम आवाज़ से $50M के अनुबंध तैयार करते हैं। Storm Mic कभी इंटरनेट को नहीं छूता। हमारी गोपनीयता की दीवारें इसे पसंद करती हैं। हम सभी 5,000 वकीलों के लिए Dragon रद्द कर रहे हैं।"*
-
-**ROI:** 2 घंटे बचत/दिन/वकील = **$2,000 बिल योग्य घंटे/दिन वापस**
-
-### 🚀 प्रभावशाली विशेषताएं
-
-**🧠 न्यूरल बफर प्रोटोकॉल™**
-- असीमित आवाज़ कैप्चर
-- विज़ुअल संपादन ओवरले
-- एक-क्लिक परिनियोजन
-- स्मार्ट संदर्भ इंजेक्शन
-
-**🔐 पूर्ण गोपनीयता**
-- 0% क्लाउड निर्भरता
-- हवाई जहाज मोड में काम करता है
-- कोई खाता नहीं चाहिए
-- आपकी आवाज़ कभी RAM नहीं छोड़ती
-
-**🌍 बहुभाषी शक्ति**
-- **बोलें:** अंग्रेजी, रूसी, स्पेनिश, चीनी, हिंदी में
-- **अनुवाद करें:** 237 भाषाओं में तुरंत
-- **सटीकता:** 99.7% (MIT परीक्षित)
-
-**⚡ एकीकरण जादू**
-- सभी एप्लिकेशन के साथ काम करता है
-- कोई प्लगइन नहीं चाहिए
-- मूल OS एकीकरण
-- स्मार्ट फील्ड डिटेक्शन
-
-### 💰 निवेश और ROI
-
-**STORM MIC PROFESSIONAL**
-- ~~₹24,999/महीना~~ **₹8,299/महीना** (67% छूट)
-- या ₹82,999/वर्ष (₹16,589 की बचत)
-- **मुफ्त 3 महीने का ट्रायल** (कार्ड की जरूरत नहीं)
-
-**STORM MIC ENTERPRISE**
-- असीमित सीटें
-- एयर-गैप्ड परिनियोजन
-- 24/7 प्राथमिकता समर्थन
-- कस्टम न्यूरल मॉडल
-- **₹41,50,000/वर्ष** से शुरू
+- Диктовка и локальная обработка могут работать полностью на вашем устройстве
+- AI через Ollama может оставаться локальным
+- История буфера хранится локально
+- История чата хранится локально в отдельной базе данных
 
 ---
 
-## 🌟 GLOBAL TESTIMONIALS
+## Spanish
 
-> **"Storm Mic saved my medical practice. I see 40% more patients now."**  
-> — Dr. James Wilson, Cleveland Clinic
+### Qué es NEXT
 
-> **"We switched our entire law firm. Best decision in 20 years."**  
-> — Sarah Chen, Partner at Baker McKenzie
+NEXT es una aplicación de escritorio basada en el **Neural Buffer Protocol**:
 
-> **"My code documentation improved 10X. My team loves me now."**  
-> — Anonymous, Google Engineer
+1. Capturar la voz
+2. Guardar el texto en un búfer
+3. Revisar y editar con seguridad
+4. Aplicar AI de forma opcional
+5. Insertar el resultado final en la aplicación destino
 
-> **"Storm Mic — это революция. Мы внедрили во всех офисах."**  
-> — Алексей Петров, CEO Yandex
+### Funcionalidad pública principal
 
-> **"从 Dragon 切换到 Storm Mic。生产力提高了 500%。"**  
-> — 李伟, CTO 腾讯
+#### Dictado y flujo de búfer
+
+- Dictado con búfer en lugar de escritura inmediata
+- Buffer Editor con corrección manual antes de insertar
+- `Insert to Window` e inserción rápida
+- Panel de traducción dentro del Buffer Editor
+- Transformaciones AI para texto completo o seleccionado
+- Guardar el texto actual en el historial del búfer
+- Historial del búfer y sesiones destacadas
+- Apertura de notas desde el búfer
+- Flujo de archivo a texto para medios locales y fuentes compatibles
+- `Turbo Engine` para el flujo de transcripción de video en segundo plano
+
+#### AI y Ollama
+
+- Chat AI local mediante Ollama
+- Transformaciones AI de texto mediante Ollama
+- Configuración de modelo, proveedor y Base URL
+- `Install / Check Ollama`
+- `Reload AI Model`
+- `Delete Unused Models`
+- Gestión de modelos locales desde la interfaz
+- El historial del chat se guarda por separado del historial del búfer
+
+#### Nexus Control Center
+
+- AI Core
+- Advanced
+- TTS Engine
+- System Audio
+- Speech Words / vocabulario
+- Verificación de dependencias de la plataforma
+- Comprobación de actualizaciones
+- Envío de feedback
+
+#### Espacio Nexus Notes
+
+- Editor
+- Canvas
+- Organizer
+- Mind Map
+- Kanban
+- Drawing
+- Video
+- Studio
+- Audio
+- Sys Audio
+- Navegador de archivos
+- Paneles de sesiones e historial
+- Sesiones destacadas
+
+#### Medios, capturas y grabación
+
+- Transcripción local de video y audio
+- Procesamiento de YouTube si las herramientas de soporte están instaladas
+- Panel de capturas
+- Captura de área
+- Captura de ventana
+- Captura del editor
+- Grabación de pantalla
+- Flujos de cámara y medios
+- Captura y transcripción de audio del sistema
+
+#### Motores de voz y voces
+
+- Vosk
+- Smart Type
+- STORM STT
+- Rutas basadas en Whisper
+- Piper TTS offline
+- Ajustes de voz y modelo desde el UI
+
+### Atajos principales
+
+- `Ctrl + ~` — iniciar/detener grabación
+- `Ctrl + Space` — abrir/cerrar Buffer Editor
+- `Alt + Space` — abrir/cerrar Nexus Control Center
+- `Ctrl + Alt` — panel de captura
+- Mantener `Space` y pulsar `Ctrl` — abrir Nexus Notes
+- Doble toque en `Ctrl` — inserción rápida
+
+### Ollama
+
+AI chat y transformaciones AI requieren Ollama.
+
+- Sitio oficial: [https://ollama.com](https://ollama.com)
+- En la app: `🛠️ Install / Check Ollama`
+- Tras cambiar modelo o proveedor: `🔄 Reload AI Model`
+
+### Privacidad y almacenamiento
+
+- El dictado y el procesamiento local pueden ejecutarse completamente en su equipo
+- La AI basada en Ollama puede mantenerse local
+- El historial del búfer se guarda localmente
+- El historial del chat se guarda localmente en una base separada
 
 ---
 
-## 🚀 GET STARTED NOW
+## Chinese
 
-<div align="center">
+### NEXT 是什么
 
-### ⚡ **[CLAIM YOUR LICENSE KEY](https://standaloneaistorm.com)**
-*Join 500,000+ professionals who upgraded their voice*
+NEXT 是一个围绕 **Neural Buffer Protocol** 构建的桌面应用：
 
-### 📹 **[WATCH 2-MIN DEMO](https://standaloneaistorm.com/demo)**
-*See the Buffer Protocol™ in action*
+1. 捕获语音
+2. 把文本保存到缓冲区
+3. 安全审阅并编辑
+4. 按需使用本地 AI
+5. 将最终文本插入目标应用
 
-### 🏢 **[ENTERPRISE INQUIRY](mailto:enterprise@standaloneaistorm.com)**
-*White-glove deployment for teams 50+*
+### 主要公开功能
 
-### 📞 **CONTACT**
-**Email:** standaloneaistorm.com@gmail.com  
-**Support:** support@standaloneaistorm.com  
-**Sales:** sales@standaloneaistorm.com
+#### 听写与缓冲区流程
 
-</div>
+- 先进入缓冲区，而不是直接打字到目标窗口
+- Buffer Editor，支持插入前手动修改
+- `Insert to Window` 与快速插入
+- Buffer Editor 内置翻译面板
+- 对选中文本或全文执行 AI 转换
+- 将当前文本保存到缓冲区历史
+- 缓冲区历史与收藏会话
+- 从缓冲区直接打开 Notes
+- 针对本地媒体和受支持来源的文件转文本流程
+- `Turbo Engine` 用于后台视频转写流程
+
+#### AI 与 Ollama
+
+- 通过 Ollama 使用本地 AI 聊天
+- 通过 Ollama 使用 AI 文本处理
+- 模型、provider 与 Base URL 配置
+- `Install / Check Ollama`
+- `Reload AI Model`
+- `Delete Unused Models`
+- 在 UI 中管理本地模型
+- 聊天历史与缓冲区历史分开存储
+
+#### Nexus Control Center
+
+- AI Core
+- Advanced
+- TTS Engine
+- System Audio
+- Speech Words / 词汇
+- 平台依赖检查
+- 更新检查
+- 发送反馈
+
+#### Nexus Notes 工作区
+
+- Editor
+- Canvas
+- Organizer
+- Mind Map
+- Kanban
+- Drawing
+- Video
+- Studio
+- Audio
+- Sys Audio
+- 文件浏览器
+- 会话与历史面板
+- 收藏会话
+
+#### 媒体、截图与捕获
+
+- 本地视频/音频转写
+- 如果支持工具已安装，可处理 YouTube
+- 截图面板
+- 区域截图
+- 窗口截图
+- 编辑器截图
+- 屏幕录制
+- 摄像头与媒体相关流程
+- 系统音频捕获与转写
+
+#### 语音引擎与语音输出
+
+- Vosk
+- Smart Type
+- STORM STT
+- 基于 Whisper 的路径
+- 离线 Piper TTS
+- 可在 UI 中调整语音与模型设置
+
+### 主要快捷键
+
+- `Ctrl + ~` — 开始/停止录音
+- `Ctrl + Space` — 打开/关闭 Buffer Editor
+- `Alt + Space` — 打开/关闭 Nexus Control Center
+- `Ctrl + Alt` — 截图面板
+- 按住 `Space` 再按 `Ctrl` — 打开 Nexus Notes
+- 双击 `Ctrl` — 快速插入
+
+### Ollama
+
+AI 聊天与 AI 处理需要 Ollama。
+
+- 官网：[https://ollama.com](https://ollama.com)
+- 应用内入口：`🛠️ Install / Check Ollama`
+- 修改模型或 provider 后：`🔄 Reload AI Model`
+
+### 隐私与存储
+
+- 听写与本地处理可完全在你的设备上运行
+- 基于 Ollama 的 AI 可以保持本地运行
+- 缓冲区历史保存在本地
+- 聊天历史保存在单独的本地数据库
 
 ---
 
-<div align="center">
+## Hindi
 
-## 🏆 AWARDS & CERTIFICATIONS
+### NEXT क्या है
 
-![HIPAA](https://img.shields.io/badge/HIPAA-CERTIFIED-green?style=for-the-badge)
-![GDPR](https://img.shields.io/badge/GDPR-COMPLIANT-blue?style=for-the-badge)
-![SOC2](https://img.shields.io/badge/SOC2-TYPE_II-purple?style=for-the-badge)
-![ISO27001](https://img.shields.io/badge/ISO-27001-red?style=for-the-badge)
-![CMMI5](https://img.shields.io/badge/CMMI-LEVEL_5-orange?style=for-the-badge)
+NEXT एक desktop application है जो **Neural Buffer Protocol** पर आधारित है:
 
-### 🎖️ TRUSTED BY THE BEST
+1. आवाज़ कैप्चर करें
+2. टेक्स्ट को buffer में सेव करें
+3. सुरक्षित रूप से review और edit करें
+4. ज़रूरत हो तो local AI apply करें
+5. final text को target app में insert करें
 
-**Government:** NASA • Pentagon • CERN • WHO  
-**Medical:** Mayo Clinic • Johns Hopkins • Cleveland Clinic  
-**Finance:** Goldman Sachs • J.P. Morgan • BlackRock  
-**Tech:** SpaceX • Tesla • Individual teams at FAANG  
+### मुख्य public functionality
+
+#### Dictation और buffer workflow
+
+- तुरंत typing के बजाय buffer-based dictation
+- Buffer Editor में insert से पहले manual correction
+- `Insert to Window` और fast insert
+- Buffer Editor के अंदर translation panel
+- selected या full text के लिए AI transforms
+- current text को buffer history में save करना
+- buffer history और starred sessions
+- buffer से Notes खोलना
+- local media और supported sources के लिए file-to-text workflow
+- background video transcription के लिए `Turbo Engine`
+
+#### AI और Ollama
+
+- Ollama के जरिए local AI chat
+- Ollama के जरिए AI text transforms
+- model, provider और Base URL settings
+- `Install / Check Ollama`
+- `Reload AI Model`
+- `Delete Unused Models`
+- UI से local model management
+- chat history, buffer history से अलग store होती है
+
+#### Nexus Control Center
+
+- AI Core
+- Advanced
+- TTS Engine
+- System Audio
+- Speech Words / vocabulary
+- platform dependency checks
+- update check
+- feedback sending
+
+#### Nexus Notes workspace
+
+- Editor
+- Canvas
+- Organizer
+- Mind Map
+- Kanban
+- Drawing
+- Video
+- Studio
+- Audio
+- Sys Audio
+- file browser
+- session/history panels
+- starred sessions
+
+#### Media, screenshots, and capture
+
+- local video/audio transcription
+- supporting tools installed हों तो YouTube processing
+- screenshot panel
+- area capture
+- window capture
+- editor capture
+- screen recording
+- camera और media workflows
+- system audio capture और transcription
+
+#### Speech engines and voices
+
+- Vosk
+- Smart Type
+- STORM STT
+- Whisper-based paths
+- offline Piper TTS
+- UI से voice/model settings
+
+### मुख्य hotkeys
+
+- `Ctrl + ~` — recording start/stop
+- `Ctrl + Space` — Buffer Editor open/close
+- `Alt + Space` — Nexus Control Center open/close
+- `Ctrl + Alt` — screenshot panel
+- `Space` दबाए रखें, फिर `Ctrl` — Nexus Notes open
+- Double-tap `Ctrl` — fast insert
+
+### Ollama
+
+AI chat और AI transforms के लिए Ollama चाहिए।
+
+- Official site: [https://ollama.com](https://ollama.com)
+- App के अंदर: `🛠️ Install / Check Ollama`
+- model/provider बदलने के बाद: `🔄 Reload AI Model`
+
+### Privacy और storage
+
+- Dictation और local processing पूरी तरह आपके device पर चल सकती है
+- Ollama-based AI local रह सकती है
+- Buffer history locally store होती है
+- Chat history अलग local database में store होती है
 
 ---
 
-### ⚡ THE STORM MIC PROMISE
+## Arabic
 
-**Your Voice. Your Power. Your Privacy.**
+### ما هو NEXT
 
-No clouds. No leaks. No limits.  
-Just pure productivity.
+NEXT هو تطبيق سطح مكتب مبني حول **Neural Buffer Protocol**:
 
-**Storm Mic: Where Thoughts Become Reality™**
+1. التقاط الصوت
+2. حفظ النص في المخزن المؤقت
+3. المراجعة والتحرير بأمان
+4. تطبيق AI بشكل اختياري ومحلي
+5. إدراج النص النهائي في التطبيق الهدف
+
+### الوظائف العامة الرئيسية
+
+#### الإملاء وسير عمل المخزن المؤقت
+
+- الإملاء أولاً إلى المخزن المؤقت بدلاً من الكتابة المباشرة
+- Buffer Editor مع تصحيح يدوي قبل الإدراج
+- `Insert to Window` والإدراج السريع
+- لوحة ترجمة داخل Buffer Editor
+- تحويلات AI للنص الكامل أو المحدد
+- حفظ النص الحالي في سجل المخزن المؤقت
+- سجل المخزن المؤقت والجلسات المميزة
+- فتح Notes من داخل المخزن المؤقت
+- تحويل الملفات إلى نص للوسائط المحلية والمصادر المدعومة
+- `Turbo Engine` لسير عمل تفريغ الفيديو في الخلفية
+
+#### AI و Ollama
+
+- دردشة AI محلية عبر Ollama
+- تحويلات AI للنص عبر Ollama
+- إعدادات النموذج و provider و Base URL
+- `Install / Check Ollama`
+- `Reload AI Model`
+- `Delete Unused Models`
+- إدارة النماذج المحلية من الواجهة
+- يتم حفظ سجل الدردشة بشكل منفصل عن سجل المخزن المؤقت
+
+#### Nexus Control Center
+
+- AI Core
+- Advanced
+- TTS Engine
+- System Audio
+- Speech Words / المفردات
+- فحص تبعيات المنصة
+- التحقق من التحديثات
+- إرسال الملاحظات
+
+#### مساحة Nexus Notes
+
+- Editor
+- Canvas
+- Organizer
+- Mind Map
+- Kanban
+- Drawing
+- Video
+- Studio
+- Audio
+- Sys Audio
+- متصفح ملفات
+- لوحات الجلسات والسجل
+- الجلسات المميزة
+
+#### الوسائط واللقطات والالتقاط
+
+- تفريغ الفيديو والصوت محلياً
+- معالجة YouTube إذا كانت الأدوات المساندة مثبتة
+- لوحة لقطات الشاشة
+- التقاط منطقة
+- التقاط نافذة
+- التقاط المحرر
+- تسجيل الشاشة
+- الكاميرا ومسارات الوسائط
+- التقاط صوت النظام وتفريغه
+
+#### محركات الإملاء والأصوات
+
+- Vosk
+- Smart Type
+- STORM STT
+- المسارات المعتمدة على Whisper
+- Piper TTS بدون اتصال
+- إعدادات الصوت والنماذج من الواجهة
+
+### الاختصارات الرئيسية
+
+- `Ctrl + ~` — بدء/إيقاف التسجيل
+- `Ctrl + Space` — فتح/إغلاق Buffer Editor
+- `Alt + Space` — فتح/إغلاق Nexus Control Center
+- `Ctrl + Alt` — لوحة لقطات الشاشة
+- اضغط مطولاً `Space` ثم `Ctrl` — فتح Nexus Notes
+- ضغطتان سريعتان على `Ctrl` — إدراج سريع
+
+### Ollama
+
+تتطلب الدردشة الذكية والتحويلات الذكية Ollama.
+
+- الموقع الرسمي: [https://ollama.com](https://ollama.com)
+- داخل التطبيق: `🛠️ Install / Check Ollama`
+- بعد تغيير النموذج أو المزوّد: `🔄 Reload AI Model`
+
+### الخصوصية والتخزين
+
+- يمكن أن يعمل الإملاء والمعالجة المحلية بالكامل على جهازك
+- يمكن أن يبقى AI عبر Ollama محلياً
+- يتم حفظ سجل المخزن المؤقت محلياً
+- يتم حفظ سجل الدردشة محلياً في قاعدة بيانات منفصلة
 
 ---
 
-© 2024-2025 Storm Mic Project | A Standalone AI Initiative  
-Patent Pending: Buffer Protocol™ | Neural Voice Architecture™
+## Repository structure
 
-</div>
+- [`dictation_app`](./dictation_app) — desktop UI, buffer, Nexus settings, notes, media, STT/TTS
+- [`server`](./server) — backend/server-side components
+- [`license_system`](./license_system) — license-related modules
+- [`model_ar`](./model_ar) — Arabic-related model/tools
+
+## License
+
+See [LICENSE](./LICENSE).
