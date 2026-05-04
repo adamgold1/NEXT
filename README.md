@@ -4,9 +4,9 @@ NEXT is an offline-first dictation workspace built around the **Neural Buffer Pr
 
 ## Links and contacts
 
-- Website: [https://standaloneaistorm.com](https://standaloneaistorm.com)](https://apps.microsoft.com/detail/9PPMPNKQKN3K)
+- Website: [https://standaloneaistorm.com](https://standaloneaistorm.com)]
 - Demo: [https://standaloneaistorm.com/demo](https://standaloneaistorm.com/demo)
-- Releases: [https://github.com/adamgold1/Storm_Mic/releases](https://github.com/adamgold1/Storm_Mic/releases)
+- Releases: [(https://apps.microsoft.com/detail/9PPMPNKQKN3K)](https://apps.microsoft.com/detail/9PPMPNKQKN3K)
 - Repository: [https://github.com/adamgold1/Storm_Mic](https://github.com/adamgold1/Storm_Mic)
 - Email: `standaloneaistorm.com@gmail.com`
 - Support: `support@standaloneaistorm.com`
